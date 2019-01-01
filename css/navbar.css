@@ -1,0 +1,24 @@
+body{position: relative;}
+.affix {
+    top: 0;
+    width: 100%;
+    z-index: 9999 !important;
+    transition: all .6s ease-in-out;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 1px;
+
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+.affix-top {
+    position: static;
+    top: -35px;
+}
+
+.affix + .container-fluid {
+    position: relative;
+    padding-top: 50px;
+}
