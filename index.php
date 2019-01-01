@@ -13,8 +13,8 @@
     <link rel="stylesheet" type="text/css" href="css/half-slider.css" >
 
     <!-- CSS class links -->
-    <link rel="stylesheet" type="text/css" href="CSS/navbar.css" >
-    <link rel="stylesheet" type="text/css" href="CSS/3d_layout.css" >
+    <link rel="stylesheet" type="text/css" href="css/navbar.css" >
+    <link rel="stylesheet" type="text/css" href="css/3d_layout.css" >
 
     <title>Home Page</title>
 </head>
