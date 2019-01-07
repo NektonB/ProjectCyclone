@@ -25,45 +25,23 @@
 </head>
 <body>
 
-<!-- this is affix (header) -->
-<div class="container-fluid" style="background-color:#F44336;color:#fff;height:200px;">
-    <h1>Online Shopping Cart</h1>
-
+<!-- this is header line -->
+<div style="background-color:black;color:black;height:30px;">
 </div>
 
-<!-- Navigation bar started -->
-<nav class="navbar navbar-expand-lg navbar-light bg-light" data-spy="affix" data-offset-top="197"
-     style="background-color: white;">
-    <ul class="nav navbar-nav">
-        <li><a href="#">Fresh Mart</a>
-        </li>
-        <li class="active"><a href="#" style="color: black;"><span class="glyphicon glyphicon-home"></span> Home</a>
-        </li>
-        <li><a href="#">All Product</a>
-        </li>
-        <li><a href="#">Catogories</a>
-        </li>
-        <li><a href="#">About Us</a>
-        </li>
-        <li><a href="#">Contact</a>
-        </li>
-    </ul>
+<div class="container-fluid" style="background-color:black;color:#fff;height:170px; " class="navbar navbar-expand-lg navbar-light bg-light" data-spy="affix" data-offset-top="197">
 
-    <form class="navbar-form navbar-left" role="search">
-        <div class="form-group">
-            <input type="text" class="form-control" placeholder="Search" size="30">
-        </div>
-        <button type="Search" class="btn btn-info"><span class="glyphicon glyphicon-search" aria-hidden="true"></button>
-    </form>
+    <div style="background-color:black;color:#fff;height:100px;width:50%;">
 
-    <ul class="nav navbar-nav navbar-right" style="margin-right: 0px">
-        <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a>
-        </li>
-        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a>
-        </li>
-    </ul>
-</nav>
-<!-- Navigation bar Ended -->
+    </div>
+
+    <div style="background-color:green;color:#fff;height:70px;">
+
+    </div>
+</div>
+
+
+
 
 <!-- Slide show started -->
 <div class="slideshow_container">
