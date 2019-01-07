@@ -10,6 +10,9 @@
     <script src="/bootstrap/js/popper.min.js"></script>
     <script src="/bootstrap/js/tooltip.min.js"></script>
     <script src="/bootstrap/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
     <!-- link for slide show -->
     <link rel="stylesheet" type="text/css" href="css/half-slider.css" >
@@ -68,13 +71,6 @@
 </div>
 <!-- slide show ended-->
 
-<div class="container">
-    <img src="media_files/02.jpg">
-    <img src="media_files/02.jpg">
-    <img src="media_files/02.jpg">
-    <img src="media_files/02.jpg">
-
-</div>
 
 <h1 style="margin-top: 2000px;">hdf</h1>
 
