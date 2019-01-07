@@ -22,3 +22,10 @@ body{position: relative;}
     position: relative;
     padding-top: 50px;
 }
+
+.log_aria{
+    background-color:blue;
+    color:blue;
+    height:108px;
+    width:100%;
+}

@@ -31,13 +31,40 @@
 
 <div class="container-fluid" style="background-color:black;color:#fff;height:170px; " class="navbar navbar-expand-lg navbar-light bg-light" data-spy="affix" data-offset-top="197">
 
-    <div style="background-color:black;color:#fff;height:100px;width:50%;">
+    <div class="log_aria">
 
     </div>
 
-    <div style="background-color:green;color:#fff;height:70px;">
+    <nav class="navbar navbar-expand-sm  navbar-dark" style="background-color: #28a745">
 
-    </div>
+        <!-- Links -->
+        <ul class="navbar-nav">
+            <li><a class="navbar-brand" href="#"><b><span class="glyphicon glyphicon-home"></span> Home</b></a></li>
+            <li class="nav-item">
+                <a class="nav-link" href="#"><b>Link 1</b></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#"><b>Link 2</b></a>
+            <li c   lass="nav-item">
+                <a class="nav-link" href="#"><b>Link 3</b></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#"><b>Link 4</b></a>
+            </li>
+
+            <!-- Dropdown -->
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                    <b>Dropdown link</b>
+                </a>
+                <div class="dropdown-menu">
+                    <a class="dropdown-item" href="#"><b>Link 1</b></a>
+                    <a class="dropdown-item" href="#"><b>Link 2</b></a>
+                    <a class="dropdown-item" href="#"><b>Link 3</b></a>
+                </div>
+            </li>
+        </ul>
+    </nav>
 </div>
 
 
